@@ -4,6 +4,10 @@ This app lets you select different parameters and predicts the healthcare premiu
 
 streamlit App link - https://healthcare-premiumprediction.streamlit.app/
 
+# App user Interface
+
+![image](https://github.com/user-attachments/assets/931e1aec-f1f6-42ab-8e44-fbffaca1b8db)
+
 
 ### Set Up
 
